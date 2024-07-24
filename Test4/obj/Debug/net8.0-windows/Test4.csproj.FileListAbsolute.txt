@@ -1,0 +1,17 @@
+C:\codekod\AllMyProject\Test4\bin\Debug\net8.0-windows\Test4.exe
+C:\codekod\AllMyProject\Test4\bin\Debug\net8.0-windows\Test4.deps.json
+C:\codekod\AllMyProject\Test4\bin\Debug\net8.0-windows\Test4.runtimeconfig.json
+C:\codekod\AllMyProject\Test4\bin\Debug\net8.0-windows\Test4.dll
+C:\codekod\AllMyProject\Test4\bin\Debug\net8.0-windows\Test4.pdb
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.Form1.resources
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.csproj.GenerateResource.cache
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.GeneratedMSBuildEditorConfig.editorconfig
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.AssemblyInfoInputs.cache
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.AssemblyInfo.cs
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.csproj.CoreCompileInputs.cache
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.dll
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\refint\Test4.dll
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.pdb
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.genruntimeconfig.cache
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\ref\Test4.dll
+C:\codekod\AllMyProject\Test4\obj\Debug\net8.0-windows\Test4.Properties.Resources.resources

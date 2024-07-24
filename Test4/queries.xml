@@ -1,0 +1,219 @@
+<queries>
+  <query>
+    <day>שלישי</day>
+    <DadyMonth>3</DadyMonth>
+    <Month>טבת</Month>
+    <Year>תשפ"ט</Year>
+  </query>
+  <query>
+    <day>שני</day>
+    <DadyMonth>8</DadyMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ה</Year>
+    <Qurey>שמונה ימים  בשבתלירחשנת חמשת אלפים ושבע מאות ושמונים ולבריאת העולם</Qurey>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <DadyMonth>1</DadyMonth>
+    <Month>אלול</Month>
+    <Year>תשפ"ד</Year>
+    <result>יום אחד לירח בשבתלירחשנת חמשת אלפים ושבע מאות ושמונים ולבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <DadyMonth>4</DadyMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ה</Year>
+    <result> ארבעה ימים  בשבתלירחשנת חמשת אלפים ושבע מאות ושמונים ולבריאת העולם</result>
+  </query>
+  <query>
+    <day>שלישי</day>
+    <DadyMonth>9</DadyMonth>
+    <Month>ניסן</Month>
+    <Year>תשפ"ז</Year>
+    <result> תשעה ימים בשבתלירחשנת חמשת אלפים ושבע מאות ושמונים ולבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <DadyMonth>6</DadyMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ז</Year>
+    <result>באחד בשבת ששה ימים לירחשבטשנת חמשת אלפים ושבע מאות ושמונים ולבריאת העולם</result>
+  </query>
+  <query>
+    <day>שלישי</day>
+    <DadyMonth>4</DadyMonth>
+    <Month>כסליו</Month>
+    <Year>תשפ"ח</Year>
+    <result>בשלישיבשבת ארבעה ימים  לירחכסליושנת חמשת אלפים ושבע מאות ושמונים ולבריאת העולם</result>
+  </query>
+  <query>
+    <day>שלישי</day>
+    <DadyMonth>10</DadyMonth>
+    <Month>אדר</Month>
+    <Year>תשפ"ד</Year>
+    <result> בשלישי בשבת עשרה ימים  לירחאדרשנת חמשת אלפים ושבע מאות ושמונים ולבריאת העולם</result>
+  </query>
+  <query>
+    <day>שני</day>
+    <DadyMonth>10</DadyMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ח</Year>
+    <result> בשני   בשבת   עשרה ימים    לירח שבט שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>שני</day>
+    <DadyMonth>3</DadyMonth>
+    <Month>כסליו</Month>
+    <Year>
+    </Year>
+    <result> בשני   בשבת  שלשה ימים   לירח כסליו שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>
+    </day>
+    <DadyMonth>
+    </DadyMonth>
+    <Month>
+    </Month>
+    <Year>
+    </Year>
+    <result> בשבת   לירח  שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>
+    </day>
+    <DadyMonth>
+    </DadyMonth>
+    <Month>
+    </Month>
+    <Year>
+    </Year>
+    <result> בשבת   לירח  שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>
+    </day>
+    <DadyMonth>4</DadyMonth>
+    <Month>
+    </Month>
+    <Year>
+    </Year>
+    <result> בשבת  ארבעה ימים    לירח  שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>
+    </day>
+    <DadyMonth>4</DadyMonth>
+    <Month>
+    </Month>
+    <Year>תשפ"ז</Year>
+    <result> בשבת  ארבעה ימים    לירח  שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <DadyMonth>5</DadyMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ח</Year>
+    <result> בשבת  חמשה ימים   לירח שבט שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>שני</day>
+    <DadyMonth>15</DadyMonth>
+    <Month>ניסן</Month>
+    <Year>תשפ"ד</Year>
+    <result> בשני   בשבת   חמשה עשר ימים      לירח ניסן שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <DadyMonth>10</DadyMonth>
+    <Month>תמוז</Month>
+    <Year>תשפ"ח</Year>
+    <result> בשבת   עשרה ימים    לירח תמוז שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>רביעי</day>
+    <DadyMonth>10</DadyMonth>
+    <Month>תמוז</Month>
+    <Year>תשפ"ח</Year>
+    <result> ברביעי  בשבת   עשרה ימים    לירח תמוז שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>שלישי</day>
+    <DadyMonth>3</DadyMonth>
+    <Month>אדר</Month>
+    <Year>תשפה</Year>
+    <result>בשלישי בשבת שלשה ימים  לירח אדר שנת חמשת אלפים ושבע מאות ושמונים ו   וחמש  לבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <DadyMonth>1</DadyMonth>
+    <Month>תשרי</Month>
+    <Year>תשפז</Year>
+    <result> באחד בשבת יום אחד  לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים ו  שבע לבריאת העולם</result>
+  </query>
+  <query>
+    <day>חמישי</day>
+    <DadyMonth>21</DadyMonth>
+    <Month>סיוון</Month>
+    <Year>תשפה</Year>
+    <result> בחמישי בשבת   עשרים ואחת ימים   לירח סיוון שנת חמשת אלפים ושבע מאות ושמונים ו   חמש  לבריאת העולם</result>
+  </query>
+  <query>
+    <day>שישי</day>
+    <DadyMonth>30</DadyMonth>
+    <Month>ניסן</Month>
+    <Year>תשפה</Year>
+    <result> בשישי בשבת  שלושים ימים   לירח ניסן שנת חמשת אלפים ושבע מאות ושמונים ו   חמש  לבריאת העולם</result>
+  </query>
+  <query>
+    <day>
+    </day>
+    <DadyMonth>
+    </DadyMonth>
+    <Month>
+    </Month>
+    <Year>
+    </Year>
+    <result>  בשבת   לירח  שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>
+    </day>
+    <DadyMonth>
+    </DadyMonth>
+    <Month>
+    </Month>
+    <Year>
+    </Year>
+    <result>  בשבת   לירח  שנת חמשת אלפים ושבע מאות ושמונים ו לבריאת העולם</result>
+  </query>
+  <query>
+    <day>שני</day>
+    <DadyMonth>7</DadyMonth>
+    <Month>טבת</Month>
+    <Year>תשפה</Year>
+    <result> בשני בשבת שבעה ימים  לירח טבת שנת חמשת אלפים ושבע מאות ושמונים ו   חמש  לבריאת העולם</result>
+  </query>
+  <query>
+    <day>שלישי</day>
+    <DadyMonth>17</DadyMonth>
+    <Month>סיוון</Month>
+    <Year>תשפח</Year>
+    <result> בשלישי בשבת שבעה עשר ימים  לירח סיוון שנת חמשת אלפים ושבע מאות ושמונים ו    שמונה  לבריאת העולם</result>
+  </query>
+  <query>
+    <day>חמישי</day>
+    <DadyMonth>11</DadyMonth>
+    <Month>שבט</Month>
+    <Year>תשפח</Year>
+    <result> בחמישי בשבת אחד עשר ימים  לירח שבט שנת חמשת אלפים ושבע מאות ושמונים ו    שמונה  לבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <DadyMonth>17</DadyMonth>
+    <Month>סיוון</Month>
+    <Year>תשפז</Year>
+    <result> באחד בשבת שבעה עשר ימים  לירח סיוון שנת חמשת אלפים ושבע מאות ושמונים ו  שבע לבריאת העולם</result>
+  </query>
+</queries>

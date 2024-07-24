@@ -1,0 +1,16 @@
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.Form1.resources
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.csproj.GenerateResource.cache
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.AssemblyInfoInputs.cache
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.AssemblyInfo.cs
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.csproj.CoreCompileInputs.cache
+C:\codekod\AllMyProject\LaLiga\bin\Debug\net8.0-windows\LaLiga.exe
+C:\codekod\AllMyProject\LaLiga\bin\Debug\net8.0-windows\LaLiga.deps.json
+C:\codekod\AllMyProject\LaLiga\bin\Debug\net8.0-windows\LaLiga.runtimeconfig.json
+C:\codekod\AllMyProject\LaLiga\bin\Debug\net8.0-windows\LaLiga.dll
+C:\codekod\AllMyProject\LaLiga\bin\Debug\net8.0-windows\LaLiga.pdb
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.dll
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\refint\LaLiga.dll
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.pdb
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\LaLiga.genruntimeconfig.cache
+C:\codekod\AllMyProject\LaLiga\obj\Debug\net8.0-windows\ref\LaLiga.dll

@@ -1,0 +1,14 @@
+C:\codekod\AllMyProject\Israel\bin\Debug\net8.0\Israel.exe
+C:\codekod\AllMyProject\Israel\bin\Debug\net8.0\Israel.deps.json
+C:\codekod\AllMyProject\Israel\bin\Debug\net8.0\Israel.runtimeconfig.json
+C:\codekod\AllMyProject\Israel\bin\Debug\net8.0\Israel.dll
+C:\codekod\AllMyProject\Israel\bin\Debug\net8.0\Israel.pdb
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\Israel.GeneratedMSBuildEditorConfig.editorconfig
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\Israel.AssemblyInfoInputs.cache
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\Israel.AssemblyInfo.cs
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\Israel.csproj.CoreCompileInputs.cache
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\Israel.dll
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\refint\Israel.dll
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\Israel.pdb
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\Israel.genruntimeconfig.cache
+C:\codekod\AllMyProject\Israel\obj\Debug\net8.0\ref\Israel.dll

@@ -1,0 +1,14 @@
+C:\codekod\AllMyProject\laliga1\bin\Debug\net8.0\laliga1.exe
+C:\codekod\AllMyProject\laliga1\bin\Debug\net8.0\laliga1.deps.json
+C:\codekod\AllMyProject\laliga1\bin\Debug\net8.0\laliga1.runtimeconfig.json
+C:\codekod\AllMyProject\laliga1\bin\Debug\net8.0\laliga1.dll
+C:\codekod\AllMyProject\laliga1\bin\Debug\net8.0\laliga1.pdb
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\laliga1.GeneratedMSBuildEditorConfig.editorconfig
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\laliga1.AssemblyInfoInputs.cache
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\laliga1.AssemblyInfo.cs
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\laliga1.csproj.CoreCompileInputs.cache
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\laliga1.dll
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\refint\laliga1.dll
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\laliga1.pdb
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\laliga1.genruntimeconfig.cache
+C:\codekod\AllMyProject\laliga1\obj\Debug\net8.0\ref\laliga1.dll

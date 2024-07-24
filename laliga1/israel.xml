@@ -1,0 +1,21 @@
+<liga>
+  <team>
+    <name>barcelona</name>
+    <rank>2</rank>
+    <goal>65</goal>
+    <winer>sdfg</winer>
+  </team>
+  <team>
+    <name>riel madrid</name>
+    <rank>3</rank>
+    <goal>52</goal>
+    <winer>sdfg</winer>
+  </team>
+  <team>
+    <name>atletico madrid</name>
+    <rank>1</rank>
+    <goal>65</goal>
+    <winer>sdfg</winer>
+  </team>
+  <team />
+</liga>
